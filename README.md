@@ -14,7 +14,7 @@ Para utilizar o Contador de Pessoas em Flutter, basta abrir o aplicativo e tocar
 
 # Como instalar o aplicativo
 
-Para instalar o aplicativo, você pode baixar o arquivo APK diretamente do repositório do projeto. O APK está localizado em: `build/app/outputs/flutter-apk/app-release.apk.` Você pode transferir o arquivo APK para o seu dispositivo Android e instalá-lo seguindo as instruções de instalação padrão.
+Para instalar o aplicativo, você pode baixar o arquivo APK diretamente do repositório do projeto. O APK está localizado em: `build_apk/app-release.apk.` Você pode transferir o arquivo APK para o seu dispositivo Android e instalá-lo seguindo as instruções de instalação padrão.
 
 ***
 # Contribuição
